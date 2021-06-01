@@ -1,11 +1,18 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.* OR cat:q-bio.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        pathology: 3
+        neuropathology: 5
+        synuclein: 3
+        tau: 3
+        multiple system atrophy: 5
+        Alzheimer's disease: 5
+        corticobasal degeneration: 5
+        progressive supranuclear palsy: 5
+        tauopathy: 5
+        synucleinopathy: 5
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 4
