@@ -5,7 +5,10 @@ subject: 'cat:cs.* OR cat:q-bio.*'
 keywords:
         pathology: 3
         neuropathology: 5
+        neuropathologic: 5
+        neuropathological: 5
         synuclein: 3
+        α-synuclein: 3
         tau: 3
         multiple system atrophy: 5
         Alzheimer's disease: 5
